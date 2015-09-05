@@ -28,6 +28,4 @@
         android:textSize="30dp"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
-    
-
 </RelativeLayout>
